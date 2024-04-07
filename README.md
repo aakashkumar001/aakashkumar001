@@ -6,7 +6,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakashkumar001)](https://github.com/aakashkumar001/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aakashkumar001&theme=whatsapp-dark2&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 <!---
