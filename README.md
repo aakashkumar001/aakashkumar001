@@ -33,7 +33,7 @@
 
 
 # 🌱 What I'm Currently Learning
-### I'm always keen to expand my skill set. Right now, I'm diving into:
+### I'm always keen to expand my skill set. Right now, I'm diving into
 
 ### ✅ Advance Web Sockets / GraphQL
 ### ✅ Amazon Web Services (AWS)
