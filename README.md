@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I-am-Aakash&fontSize=80)
-
 ![consistency](https://github.com/aakashkumar001/aakashkumar001/assets/134297032/ee5603ae-3b85-4930-84d3-362c420729f0)
-
 
 # 👋 Hello !!
 
